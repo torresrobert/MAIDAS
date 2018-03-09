@@ -1,0 +1,6 @@
+framework module Pods_MAIDAS {
+  umbrella header "Pods-MAIDAS-umbrella.h"
+
+  export *
+  module * { export * }
+}
